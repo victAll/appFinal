@@ -10,5 +10,5 @@ package com.victor.allende.comunication;
  * @author allen
  */
 public class Comunication {
-    
+    private String url ="";
 }
